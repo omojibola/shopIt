@@ -1,0 +1,118 @@
+[{
+    "name":"Sandisk ultra 128gb SDXC UHS-I Memory card up t6o 80MB/s",
+    "price":"45.89",
+    "description":"Ultra-fast cards(2) to take better picyures Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur",
+    "ratings":4.5,
+    "images":[{
+       "public_id":"products/tzfsnrli3szrdnb4jgge",
+       "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/tzfsnrli3szrdnb4jgge.jpg"
+    }],
+    "category":"Electronics",
+    "seller":"Ebay",
+    "numOfReviews":32,
+    "reviews":[]
+},{
+    "name":"Apple Macbook Air (13-inch, 8GB RAM, 256GB SSD Storage) - Space Gray",
+    "price":"949.99",
+    "description":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+    "ratings":4.9,
+    "images":[{
+        "public_id":"products/macbook_o2cj2k",
+        "url":"https://res.cloudinary.com/shopit/image/uploads/v1606231282/products/macbook__o2cj2k.jpg"
+    }],
+    "category":"Laptops",
+    "seller":"Amazon",
+    "numOfReviews":12,
+    "reviews":[]
+
+    },{
+        "name":"CAN USB FD Adapter (GC-CAN-USB-FD)",
+        "price":"100.00",
+        "description":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur",
+        "ratings":1.65,
+        "images":[{
+            "public_id":"products/l2bd3hhy8dds1cxstuuz",
+            "url":"https://res.cloudinary.com/shopit/image/upload/v1606231284/products/l2bd3hhy8dds1cxstuuz.jpg"
+        }],
+        "category":"Electronics",
+        "seller":"Amazon",
+        "stock":0,
+        "numOfReviews":12,
+        "reviews":[]
+    },{
+        "name":"Apple Airpods with Charging case (wired)",
+        "price":"126.99",
+        "description":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur",
+        "ratings":4.8,
+        "images":[{
+            "public_id":"products/airpords_e5cqqr",
+            "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/airpords_e5cqqr.jpg"
+        }],
+        "category":"Headphones",
+        "seller":"Amazon",
+        "stock":122,
+        "numOfReviews":2671,
+        "reviews":[]
+    },{
+        
+            "name":"Banana and Mango",
+            "price":"2.75",
+            "description":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur",
+            "ratings":4.8,
+            "images":[{
+                "public_id":"products/i0k1wdwi5hrpmzwxvsds",
+                "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/i0k1wdwi5hrpmzwxvsds.jpg"
+            },
+            {
+                "public_id":"products/bshmuo9qisfhz4azvnsd",
+                "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/bshmuo9qisfhz4azvnsd.jpg"
+            }],
+            "category":"Food",
+            "seller":"Jibola fruit farm",
+            "stock":500,
+            "numOfReviews":1,
+            "reviews":[]
+        
+    },
+    {
+        
+        "name":"NIKON D3500 W/ AF-P DX NIKKOR 18-55MM f/3.5-5.6G VR BLACK",
+        "price":"2.75",
+        "description":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur",
+        "ratings":4.7,
+        "images":[{
+            "public_id":"products/i0k1wdwi5hrpmzwxvsds",
+            "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/i0k1wdwi5hrpmzwxvsds.jpg"
+        },
+        {
+            "public_id":"products/camera_ridc0i",
+            "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/camera_ridc0i.jpg"
+        }],
+        "category":"Cameras",
+        "seller":"Amazon",
+        "stock":121,
+        "numOfReviews":222,
+        "reviews":[]
+    
+},
+{
+        
+    "name":"Cable Boom Microphone - volume control for play station PS4 or Xbox",
+    "price":"2.75",
+    "description":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur",
+    "ratings":4.7,
+    "images":[{
+        "public_id":"products/i0k1wdwi5hrpmzwxvsds",
+        "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/i0k1wdwi5hrpmzwxvsds.jpg"
+    },
+    {
+        "public_id":"products/camera_ridc0i",
+        "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/camera_ridc0i.jpg"
+    }],
+    "category":"Accessories",
+    "seller":"Amazon",
+    "stock":121,
+    "numOfReviews":222,
+    "reviews":[]
+
+}]
